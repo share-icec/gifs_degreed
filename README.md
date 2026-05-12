@@ -1,4 +1,5 @@
-# Repositório de GIFs Degreed
-Repositório de GIFs para serem utilizados na plataforma Degreed.
+# GIFs Degreed
+---
+Hospedagem de GIFs para serem utilizados na plataforma Degreed.
 
-ICEC 2026
+_ICEC 2026_
