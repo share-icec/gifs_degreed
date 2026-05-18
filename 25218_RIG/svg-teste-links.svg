@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 768">
+  <a href="https://www.globo.com" target="_blank">
+    <rect x="403" y="224.71" width="231.98" height="128.8" fill="#e01b1b"/>
+  </a>
+  <a href="https://www.google.com" target="_blank">
+    <rect x="731.02" y="224.71" width="231.98" height="128.8" fill="#10d"/>
+  </a>
+  <a href="https://www.youtube.com" target="_blank">
+    <rect x="403" y="414.49" width="231.98" height="128.8" fill="#ffce1a"/>
+  </a>
+  <a href="https://www.reddit.com" target="_blank">
+    <rect x="731.02" y="414.49" width="231.98" height="128.8" fill="#10d900"/>
+  </a>
+</svg>
